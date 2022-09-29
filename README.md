@@ -8,3 +8,5 @@ AI Appl. Assignment
 * Version Administration
 * Collaboration
 * and etc.
+
+### This part is edited from branch_pr
