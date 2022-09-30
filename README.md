@@ -10,3 +10,5 @@ AI Appl. Assignment
 * and etc.
 
 ### This part is edited from branch_pr
+
+###This part is edited from jinho311 ,branch_pr_2017732057
